@@ -18,6 +18,26 @@ Built a full-stack AI-based trip planning web application that generates persona
 
 **🎨 Modern Responsive UI:** Styled with TailwindCSS & Shadcn for a sleek look.
 
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React.js  
+- Tailwind CSS
+- Shadcn  
+
+### **AI Integration**
+- Gemini AI (for itinerary generation and personalization)  
+
+### **Backend & Database**
+- Firebase Firestore (real-time database)  
+- Firebase Authentication (secure login)  
+
+### **APIs**
+- Google Maps API  
+- Google Places API
+- Google GEMINI API
+- Google CLIENT AUTH API
+
 ## Screenshots
 
 <img width="1918" height="877" alt="Image" src="https://github.com/user-attachments/assets/53af940a-ce7c-4429-919a-beb6d567a3c7" />
