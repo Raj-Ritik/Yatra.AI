@@ -35,7 +35,6 @@ function PlaceCardItem({ place }) {
             <span className="text-gray-800">💰Ticket Pricing:</span>{" "}
             {place.TicketPricing}
           </p>
-          <p className="text-sm text-gray-500">⭐{place.rating}</p>
         </div>
       </div>
     </Link>
