@@ -1,6 +1,6 @@
 // this section will be present in all the web pages so adding it to main.jsx
 import React, { use, useEffect } from "react";
-import { Button } from "../ui/Button";
+import { Button } from "../ui/button";
 import {
   Popover,
   PopoverContent,
